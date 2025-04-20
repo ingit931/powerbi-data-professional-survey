@@ -1,6 +1,8 @@
 # 📊 Data Professional Survey Breakdown – Power BI Dashboard
 
 This Power BI project analyzes survey data collected by a YouTuber from 630 data professionals around the world. The goal of the project is to gain insights into the demographics, preferences, job roles, and work satisfaction of people working in the data field.
+![Dashboard Preview](./dashboard.png)
+
 
 ## 🚀 Project Highlights
 
